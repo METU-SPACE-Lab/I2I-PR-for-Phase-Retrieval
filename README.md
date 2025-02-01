@@ -7,7 +7,7 @@ Important checkpoints:
 [T=32](https://mega.nz/folder/NWd3DYAI#KFQg8y_78Tlaft0wI5mX3A/file/Ea0U0JJQ)
 
 <details>
-<summary>Unimportant checkpoints:</summary>
+<summary>Other checkpoints:</summary>
 
 [5_8](https://mega.nz/folder/NWd3DYAI#KFQg8y_78Tlaft0wI5mX3A/file/MH1AkbYL)
 
