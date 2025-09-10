@@ -15,7 +15,7 @@ Phase retrieval involves recovering a signal from intensity-only measurements, c
 [T=32](https://mega.nz/folder/NWd3DYAI#KFQg8y_78Tlaft0wI5mX3A/file/Ea0U0JJQ)
 
 <details>
-<summary>**Other checkpoints:**</summary>
+<summary><b>Other checkpoints:</b></summary>
 
 [5_8](https://mega.nz/folder/NWd3DYAI#KFQg8y_78Tlaft0wI5mX3A/file/MH1AkbYL)
 
