@@ -38,6 +38,17 @@ Please cite the following paper when using this code or data:
 }
 ```
 
+Short conference paper:
+```
+@inproceedings{kaya2025i2i,
+  title={I2I-PR: Data-Driven Phase Retrieval Using Image-to-Image Diffusion Models},
+  author={Kaya, Mehmet Onurcan and Oktem, Figen S},
+  booktitle={Proceedings of the 33rd European Signal Processing Conference},
+  pages={1697--1701},
+  year={2025}
+}
+```
+
 ## Contact
 If you have any questions or need help, please feel free to contact me via monka@dtu.dk.
 
